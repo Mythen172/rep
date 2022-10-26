@@ -1,8 +1,9 @@
 #include <iostream>
 using namespace std;
 
-int main(int argc, char* argv[])
+int main (int argc, char* argv[])
 {
-cout <<"HELLO WORLD"<< endl;
+setlocale(LC_ALL,"ru");
+cout <<"Здарова"<<endl;
 return 0;
 }

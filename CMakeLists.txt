@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.25.0-rc2 FATAL_ERROR)
+cmake_minimum_required(VERSION 3.25 FATAL_ERROR)
 
 project(rep)
 
